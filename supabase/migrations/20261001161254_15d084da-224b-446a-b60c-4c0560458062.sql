@@ -1,0 +1,1 @@
+ALTER TABLE public.appointments ADD COLUMN remind_3d boolean NOT NULL DEFAULT false, ADD COLUMN remind_1d boolean NOT NULL DEFAULT true;

@@ -1,0 +1,5 @@
+- [x] Step-by-step booking with 30-min slots
+- [x] Provider dashboard + check-in + super admin tools
+- [x] Patient emails (received, accepted/declined, rescheduled, cancelled, day-before reminder) — domain notify.dataplusacademy.com verifying; sends start once DNS verifies
+- [x] Price list, patient records, billing, receipts, billing log
+- [x] Combined bill hand-off, payment email, products & stock
